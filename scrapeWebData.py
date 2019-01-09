@@ -24,3 +24,4 @@ for row in stuff:
 with open("output.csv", "w") as f:
     writer = csv.writer(f)
     writer.writerows(ls)
+    
