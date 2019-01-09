@@ -3,6 +3,7 @@ Accessing data from a login-required website using python3 and write it into a c
 
 ### Getting Started
 Install __BeautifulSoup__ for parsing HTML
+
 `pip3 install bs4`
 
 ### To-Do Next
