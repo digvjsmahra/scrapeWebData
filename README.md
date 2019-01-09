@@ -1,5 +1,5 @@
 # scrapeWebData
-Accessing data from a login-required website and write it into a csv/ excel file on your desktop.
+Accessing data from a login-required website using python3 and write it into a csv/ excel file on your desktop.
 
 ### Install BeautifulSoup for parsing HTML
 `pip3 install bs4`
